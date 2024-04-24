@@ -29,33 +29,30 @@ const About = () => {
       >
         <Typography variant="h4">Welcome To My Resturant</Typography>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat quod,
-          suscipit, aperiam totam autem culpa cum eveniet dolorum quasi est
-          perspiciatis laborum. Nam recusandae nihil quia odio voluptatibus
-          facere omnis facilis rerum? Ab eum beatae nobis reiciendis, qui
-          temporibus aliquid, nesciunt velit sed quam recusandae necessitatibus,
-          tempora maxime. Repellendus incidunt, maxime labore dolorum eos
-          aperiam unde? At veritatis nesciunt eos quas cupiditate blanditiis est
-          quam maiores, amet, soluta exercitationem voluptatum, veniam
-          assumenda? Ratione perferendis officiis deserunt nostrum aspernatur
-          sed asperiores! Earum sunt placeat ducimus sint, deleniti amet esse
-          saepe voluptatem commodi laudantium quibusdam repellat nobis libero at
-          consectetur adipisci ipsa.
+          Welcome to MY resturant for customers are mostly used by businesses to say hello to their target audience, new users, and returning customers.
+           They can also serve other purposes like Birthday celebration, generating quality leads, and there is party hall, family Table Room,etc.
+           And there is proper sturcture with Good Engineer.A customer satisfaction and loyalty, leading a very Good Services in our Resturant.
+           We pride ourselves in following the traditional Food like breakfast seasonings and processes used in  the birthplace of Tamilnadu.Inspired 
+           by our co-founder and executive chef SATHYA_VILBER_SAHAN to share indian culture through food,and knows the depth,richness and vibrancy of Indian 
+           Culinary traditions in a Modern.
+
         </p>
         <br />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-          deserunt libero reprehenderit cum sint fugit cumque temporibus modi
-          facere eveniet amet obcaecati ducimus harum velit maxime vel qui
-          voluptatibus quam odio corrupti saepe, voluptas dolorum quidem
-          tempore? Esse sapiente molestias minus enim quisquam dolorum eum culpa
-          ullam impedit velit quo, corporis ducimus numquam dignissimos
-          inventore maiores. Nam deleniti itaque nostrum neque dolorum dolores,
-          aliquam, voluptatum sapiente doloribus laborum perspiciatis ipsam, quo
-          ut nisi distinctio sunt nihil est blanditiis perferendis eveniet
-          nesciunt! Nostrum, voluptatum eveniet repellat vel officia deleniti
-          tempore voluptatibus perferendis esse eaque temporibus porro?
-          Aspernatur beatae deleniti illo autem!
+          Here,The best and Special Dish is idiyappam and chola.These Dishes are inspired by co-founder and executive.Earlier we mentioned the importance
+          of the special dish in my resturant .In future we extends menu list and include shorts in that Special "tea" and "coffee".In weekend there is celebiraton 
+          of our resturant with some movies in big Screen and special offers.A Website visitors will typically also leave feedback or ask general questions through a 
+          contact page. These pieces of information are valuable to businesses because they learn more about consumer expectations and preferences.While Contact Us pages
+           are meant to be helpful to users, it's important not to bombard them with too much information.At the end of the day, users want to know from brands that their
+            voices will be heard one way or another. Adding in additional elements like phone numbers, email addresses, and social links gives users the opportunity to reach 
+            out on multiple platforms.Although inns and hostelries often served paying guests meals from the booking table, and sever the dish, My restaurant was probably the 
+            first public place where any diner might order a meal from a menu offering a choice of dishes.a cookbook that became a standard work on Indian culinary art.A restaurants 
+            build their meals around varieties of gravy, and the elegant tea houses serve properly to the customers after eating is over ,then they want feel fresh so that we provide 
+            the tea or coffee.make sure the if once come to our resturant you leave our shop.because like that we server to the customers.
+
+
+
+
         </p>
       </Box>
     </Layout>

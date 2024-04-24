@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <>
       <Box
-        sx={{ textAlign: "center", bgcolor: "#1A1A19", color: "white", p: 3 }}
+        sx={{ textAlign: "center", bgcolor: "#1A1A19", color: "white", p: 6 }}
       >
         <Box
           sx={{
@@ -17,7 +17,7 @@ const Footer = () => {
             "& svg": {
               fontSize: "60px",
               cursor: "pointer",
-              mr: 2,
+              mr: 3,
             },
             "& svg:hover": {
               color: "goldenrod",
@@ -40,7 +40,7 @@ const Footer = () => {
             },
           }}
         >
-          All Rights Reserved &copy; Techinfo YT
+          All Rights Reserved &copy; manojkumar-rpm
         </Typography>
       </Box>
     </>
